@@ -1,1 +1,1 @@
-# Transformed-Based-Automatic-Story-Generation-System
+# Transformed-based-automatic-story-generation-system
